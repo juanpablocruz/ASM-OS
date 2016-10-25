@@ -26,7 +26,7 @@
 ; Note: these cannot be moved, or it'll break the calls!
 
 ; The comments show exact locations of instructions in this section,
-; and are used in programs/mikedev.inc so that an external program can
+; and are used in programs/malaquias.inc so that an external program can
 ; use a Malaquias OS system call without having to know its exact position
 ; in the kernel source code...
 
